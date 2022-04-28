@@ -6,7 +6,7 @@
 ### [![rhkd2612's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhkd2612)](https://github.com/anuraghazra/github-readme-stats)
 <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rhkd2612">
 
-<img src="https://img.shields.io/github/commit-activity/w/rhkd2612/lightening-backend">
+<!-- <img src="https://img.shields.io/github/commit-activity/w/rhkd2612/lightening-backend"> -->
 
 <!--
 **rhkd2612/rhkd2612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
