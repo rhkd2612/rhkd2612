@@ -17,7 +17,8 @@
 <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
 
 ## Algorithm
-#### Samsung Electronics Pro 2019
+#### Samsung Electronics Advanced+(type A+) 2019.03
+#### Samsung Electronics Pro(type B) 2019.08
 <img src="https://img.shields.io/badge/samsung-1428A0?style=for-the-badge&logo=samsung&logoColor=white">
 <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rhkd2612">
 
