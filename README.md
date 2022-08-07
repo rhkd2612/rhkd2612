@@ -3,6 +3,7 @@
 ## 🌱Junior BackEnd Developer🌱
 
 ### 👯Computer Science Engineering, Inha Univ.
+#### Blog : https://mumomu.tistory.com/
 ### [![rhkd2612's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhkd2612)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tech Stack
