@@ -7,10 +7,15 @@
 ### [![rhkd2612's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhkd2612)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Career
-##### 2022.04 ~ 2022.11 
-#### Software Maestro 13th 
-##### 2023.01 ~ <br>
+
+##### 2024.09 ~ <br>
+#### Krafton Inc Server Developer <br>
+
+##### 2023.01 ~ 2024.08 <br>
 #### Netmarble f&c Server Developer <br>
+
+##### 2022.04 ~ 2022.11 <br>
+#### Software Maestro 13th <br>
 
 ## Tech Stack
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
