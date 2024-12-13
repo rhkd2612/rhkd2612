@@ -9,7 +9,7 @@
 ## Career
 
 ##### 2024.09 ~ <br>
-#### Krafton Inc Server Developer <br>
+#### Krafton/Bluehole Studio Server Developer <br>
 
 ##### 2023.01 ~ 2024.08 <br>
 #### Netmarble f&c Server Developer <br>
