@@ -1,14 +1,10 @@
 ### Lee Sangbin
 
-## 🌱Junior BackEnd Developer🌱
-
-### 👯Computer Science Engineering, Inha Univ.
 #### Blog : <a href="https://mumomu.tistory.com">mumomu.tistory.com</a>
-### [![rhkd2612's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhkd2612)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Career
 
-##### 2024.09 ~ <br>
+##### 2024.09 ~ 2026.01 <br>
 #### Krafton/Bluehole Studio Server Developer <br>
 
 ##### 2023.01 ~ 2024.08 <br>
